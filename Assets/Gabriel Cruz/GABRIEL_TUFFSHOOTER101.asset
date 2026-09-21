@@ -15,5 +15,5 @@ MonoBehaviour:
   sceneName: GABRIEL_TUFFSHOOTER101
   displayName: TUFFSHOOTER101
   creatorName: By Gabriel Cruz
-  levelPrefab: {fileID: 5115060657782514083, guid: f6ca98d3746f205478cc70141f533645, type: 3}
-  previewScale: {x: 0.1, y: 0.1, z: 0.1}
+  levelPrefab: {fileID: 4767037521647931781, guid: 392d3ed6466bcbe4f8a6e5be3d38d3d1, type: 3}
+  previewScale: {x: 0.1, y: 0.1, z: 0.27151}
